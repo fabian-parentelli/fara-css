@@ -5,3 +5,18 @@
     gap: 1rem;
     flex-wrap: wrap;
 }
+
+.btn {
+    min-width: 105px;
+    max-width: 180px;
+    height: 40px;
+    border-radius: 6px;
+    border: none;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+.btn-center {
+    display: block;
+    margin: 0 auto;
+}
