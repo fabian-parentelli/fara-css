@@ -1,0 +1,41 @@
+/* Texts */
+
+.decoration-none {
+    text-decoration: none;
+}
+
+.txt-center {
+    text-align: center;
+}
+
+/* colors */
+
+.pgreen {
+    color: #006414;
+    font-size: 12px;
+    transition: .3s ease-in-out;
+}
+
+.pwhite {
+    color: #EAEBEF;
+    font-size: 12px;
+    transition: .3s ease-in-out;
+}
+
+.pgray {
+    color: gray;
+    font-size: 12px;
+    transition: .3s ease-in-out;
+}
+
+.pred {
+    color: rgb(252, 99, 99);
+    font-size: 12px;
+    transition: .3s ease-in-out;
+}
+
+.pblue {
+    color: #2c3e50;
+    font-size: 12px;
+    transition: .3s ease-in-out;
+}
