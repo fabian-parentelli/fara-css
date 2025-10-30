@@ -20,3 +20,10 @@
     display: block;
     margin: 0 auto;
 }
+
+.btn-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
