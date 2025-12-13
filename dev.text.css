@@ -8,6 +8,10 @@
     text-align: center;
 }
 
+.cur-pointer {
+    cursor: pointer;
+}
+
 /* colors */
 
 .pgreen {
