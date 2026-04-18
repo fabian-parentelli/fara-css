@@ -19,3 +19,18 @@
     align-items: center;
     justify-content: center;
 }
+
+.flex-line {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+
+.d-center {
+    display: grid;
+    place-items: center;
+}
+
+.space-bet {
+    justify-content: space-between;
+}
