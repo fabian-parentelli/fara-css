@@ -34,3 +34,33 @@
 .space-bet {
     justify-content: space-between;
 }
+
+/* Base flex column reutilizable */
+.flex {
+    display: flex;
+}
+
+.flex-col-base {
+    flex-direction: column;
+}
+
+/* ===== Justify Content ===== */
+.jc-start   { justify-content: flex-start; }
+.jc-center  { justify-content: center; }
+.jc-end     { justify-content: flex-end; }
+.jc-between { justify-content: space-between; }
+.jc-around  { justify-content: space-around; }
+.jc-evenly  { justify-content: space-evenly; }
+
+/* ===== Align Items ===== */
+.ai-start   { align-items: flex-start; }
+.ai-center  { align-items: center; }
+.ai-end     { align-items: flex-end; }
+.ai-stretch { align-items: stretch; }
+.ai-baseline{ align-items: baseline; }
+
+/* ===== Gap opcional reutilizable ===== */
+.gap-1 { gap: 1rem; }
+.gap-2 { gap: 2rem; }
+.gap-05 { gap: .5rem; }
+.gap-0 { gap: 0; }
