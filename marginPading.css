@@ -1,0 +1,46 @@
+/* ===== Margin ===== */
+.m-025 { margin: 0.25rem; }
+.m-05  { margin: 0.5rem; }
+.m-075 { margin: 0.75rem; }
+.m-1   { margin: 1rem; }
+.m-125 { margin: 1.25rem; }
+.m-15  { margin: 1.5rem; }
+.m-2   { margin: 2rem; }
+.m-25  { margin: 2.5rem; }
+.m-3   { margin: 3rem; }
+.m-4   { margin: 4rem; }
+.m-5   { margin: 5rem; }
+.m-6   { margin: 6rem; }
+.m-8   { margin: 8rem; }
+.m-10  { margin: 10rem; }
+.m-12  { margin: 12rem; }
+.m-14  { margin: 14rem; }
+.m-16  { margin: 16rem; }
+
+/* Direcciones */
+.mt-1   { margin-top: 1rem; }
+.mr-1   { margin-right: 1rem; }
+.mb-1   { margin-bottom: 1rem; }
+.ml-1   { margin-left: 1rem; }
+
+.mx-1   { margin-left: 1rem; margin-right: 1rem; }
+.my-1   { margin-top: 1rem; margin-bottom: 1rem; }
+
+/* ===== Padding ===== */
+.p-025 { padding: 0.25rem; }
+.p-05  { padding: 0.5rem; }
+.p-075 { padding: 0.75rem; }
+.p-1   { padding: 1rem; }
+.p-125 { padding: 1.25rem; }
+.p-15  { padding: 1.5rem; }
+.p-2   { padding: 2rem; }
+.p-25  { padding: 2.5rem; }
+.p-3   { padding: 3rem; }
+.p-4   { padding: 4rem; }
+.p-5   { padding: 5rem; }
+.p-6   { padding: 6rem; }
+.p-8   { padding: 8rem; }
+.p-10  { padding: 10rem; }
+.p-12  { padding: 12rem; }
+.p-14  { padding: 14rem; }
+.p-16  { padding: 16rem; }
