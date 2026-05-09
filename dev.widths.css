@@ -1,4 +1,9 @@
 /* ================= WIDTH (px) ================= */
+.w-005 { width: 5px; }
+.w-010 { width: 10px; }
+.w-015 { width: 15px; }
+.w-020 { width: 20px; }
+.w-025 { width: 25px; }
 .w-50 { width: 50px; }
 .w-100 { width: 100px; }
 .w-150 { width: 150px; }
