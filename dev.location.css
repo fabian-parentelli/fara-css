@@ -44,6 +44,10 @@
     flex-direction: column;
 }
 
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
 /* ===== Justify Content ===== */
 .jc-start   { justify-content: flex-start; }
 .jc-center  { justify-content: center; }
