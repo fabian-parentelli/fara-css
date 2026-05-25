@@ -76,3 +76,77 @@
 /* ================= HEIGHT AUTO / VIEWPORT ================= */
 .h-auto { height: auto; }
 .h-screen { height: 100vh; }
+
+/* ================= MAX-WIDTH (px) ================= */
+.mw-50  { max-width: 50px; }
+.mw-100 { max-width: 100px; }
+.mw-150 { max-width: 150px; }
+.mw-200 { max-width: 200px; }
+.mw-250 { max-width: 250px; }
+.mw-300 { max-width: 300px; }
+.mw-350 { max-width: 350px; }
+.mw-400 { max-width: 400px; }
+.mw-450 { max-width: 450px; }
+.mw-500 { max-width: 500px; }
+.mw-550 { max-width: 550px; }
+.mw-600 { max-width: 600px; }
+.mw-650 { max-width: 650px; }
+.mw-700 { max-width: 700px; }
+.mw-800 { max-width: 800px; }
+
+/* ================= MAX-WIDTH (%) ================= */
+.mw-10per  { max-width: 10%; }
+.mw-20per  { max-width: 20%; }
+.mw-25per  { max-width: 25%; }
+.mw-30per  { max-width: 30%; }
+.mw-33per  { max-width: 33.333%; }
+.mw-40per  { max-width: 40%; }
+.mw-50per  { max-width: 50%; }
+.mw-60per  { max-width: 60%; }
+.mw-66per  { max-width: 66.666%; }
+.mw-70per  { max-width: 70%; }
+.mw-75per  { max-width: 75%; }
+.mw-80per  { max-width: 80%; }
+.mw-90per  { max-width: 90%; }
+.mw-100per { max-width: 100%; }
+
+/* ================= MAX-WIDTH AUTO / NONE ================= */
+.mw-auto { max-width: auto; }
+.mw-none { max-width: none; }
+
+/* ================= MIN-WIDTH (px) ================= */
+.mnw-50  { min-width: 50px; }
+.mnw-100 { min-width: 100px; }
+.mnw-150 { min-width: 150px; }
+.mnw-200 { min-width: 200px; }
+.mnw-250 { min-width: 250px; }
+.mnw-300 { min-width: 300px; }
+.mnw-350 { min-width: 350px; }
+.mnw-400 { min-width: 400px; }
+.mnw-450 { min-width: 450px; }
+.mnw-500 { min-width: 500px; }
+.mnw-550 { min-width: 550px; }
+.mnw-600 { min-width: 600px; }
+.mnw-650 { min-width: 650px; }
+.mnw-700 { min-width: 700px; }
+.mnw-800 { min-width: 800px; }
+
+/* ================= MIN-WIDTH (%) ================= */
+.mnw-10per  { min-width: 10%; }
+.mnw-20per  { min-width: 20%; }
+.mnw-25per  { min-width: 25%; }
+.mnw-30per  { min-width: 30%; }
+.mnw-33per  { min-width: 33.333%; }
+.mnw-40per  { min-width: 40%; }
+.mnw-50per  { min-width: 50%; }
+.mnw-60per  { min-width: 60%; }
+.mnw-66per  { min-width: 66.666%; }
+.mnw-70per  { min-width: 70%; }
+.mnw-75per  { min-width: 75%; }
+.mnw-80per  { min-width: 80%; }
+.mnw-90per  { min-width: 90%; }
+.mnw-100per { min-width: 100%; }
+
+/* ================= MIN-WIDTH AUTO / ZERO ================= */
+.mnw-auto { min-width: auto; }
+.mnw-0    { min-width: 0; }
