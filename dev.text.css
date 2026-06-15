@@ -8,6 +8,10 @@
     text-align: center;
 }
 
+.use-noselect {
+    user-select: none;
+}
+
 .cur-pointer {
     cursor: pointer;
 }
