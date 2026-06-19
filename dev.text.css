@@ -16,6 +16,10 @@
     cursor: pointer;
 }
 
+.capitalize {
+    text-transform: capitalize;
+}
+
 /* Etiquetas p */
 
 .p-elipsis {
