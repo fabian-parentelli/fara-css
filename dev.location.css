@@ -48,6 +48,13 @@
     flex-wrap: wrap;
 }
 
+.flex-between {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
 /* ===== Justify Content ===== */
 .jc-start   { justify-content: flex-start; }
 .jc-center  { justify-content: center; }
